@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B7D5456F-4923-4AC3-8AF4-402197853627"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "890AB750-76CA-4491-A5E4-5DCC1A7696FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "890AB750-76CA-4491-A5E4-5DCC1A7696FE - 7b91a009ea137e2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.movieDetailImg.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "890AB750-76CA-4491-A5E4-5DCC1A7696FE - 90520b682179c313"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.movieDetailImg.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "890AB750-76CA-4491-A5E4-5DCC1A7696FE - 233bc9ee02fa0f12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.movieDetailImg.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "890AB750-76CA-4491-A5E4-5DCC1A7696FE - 408ff3a32391c3a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.init(viewModel: ProgrammaticPract.MovieDetailsViewModel) -&gt; ProgrammaticPract.MovieDetailsViewController"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8">
+               </Location>
+               <Location
+                  uuid = "890AB750-76CA-4491-A5E4-5DCC1A7696FE - 8c847deb4b1f0866"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ProgrammaticPract.MovieDetailsViewController&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55F4C7EB-7151-4D2A-A457-38BF0CC0B0A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "55F4C7EB-7151-4D2A-A457-38BF0CC0B0A7 - 1104670efe126c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.movieDetailDesc.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "55F4C7EB-7151-4D2A-A457-38BF0CC0B0A7 - 8795e355310b24c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.movieDetailDesc.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "55F4C7EB-7151-4D2A-A457-38BF0CC0B0A7 - 24d97156f59a99de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.movieDetailDesc.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "033D6238-A649-4C76-86C3-F29C81FADFE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38F4275C-768E-403A-BD8E-D6E66EC6503C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "MovieDetailsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "38F4275C-768E-403A-BD8E-D6E66EC6503C - 87c88e472f5ae676"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.viewModel.getter : ProgrammaticPract.MovieDetailsViewModel"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "38F4275C-768E-403A-BD8E-D6E66EC6503C - b2941a791c22187a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.viewModel.setter : ProgrammaticPract.MovieDetailsViewModel"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "38F4275C-768E-403A-BD8E-D6E66EC6503C - a02d6cc71fb7141b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProgrammaticPract.MovieDetailsViewController.viewModel.modify : ProgrammaticPract.MovieDetailsViewModel"
+                  moduleName = "ProgrammaticPract.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/unthinkable-mac/practice/ProgrammaticPract/ProgrammaticPract/Modules/MovieDetailsScreen/Controller/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
