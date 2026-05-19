@@ -21,7 +21,8 @@ class APICaller {
         request.httpMethod = "GET"
         
         request.setValue("application/json", forHTTPHeaderField: "accept")
-        request.setValue("Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5YjRiM2YyNDliYTliMmZkYTY0MDVkMzBmNTgxYjgzZiIsIm5iZiI6MTc3NzM2OTI0Mi45MjQsInN1YiI6IjY5ZjA4MDlhYWRlMzAyNzgwYTE0MzI5NSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.fnZ3rT8lIigJKB8BCyyGUGtS01F-F9Uj_DFKVAQSoMw", forHTTPHeaderField: "Authorization")
+        request.setValue("Bearer ", forHTTPHeaderField: "Authorization")
+        #warning("Add a bearer token here")
         
         URLSession.shared.dataTask(with: request) { dataResponse, urlRespone, error in
             if let error = error {
